@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Science & AI**
 
-- 💬 Ask me about **Python, R, Excel, Tableau, PowerBI, SQL, Deep Learning, Machine Learning, Flask, Django, Tally, GST Return, HTML, CSS, Wordpress**
+- 💬 Ask me about **Python, R, Excel, Tableau, PowerBI, SQL, Deep Learning, Machine Learning, NLP, Computer Vision, Flask, Django, Tally, GST Return, HTML, CSS, Wordpress**
 
 - 📫 How to reach me **avikd6401@gmail.com**
 
